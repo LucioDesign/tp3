@@ -8,7 +8,7 @@ Aparece un Menu donde se da la opción de ir a los créditos o de empezar la his
 2) INICIO DE LA HISTORIA
 Se cuenta el inicio de la historia desde el punto de vista del personaje principal y se da la opción de seguir con la historia.
 
-3)¿TE CASAS?
+3) ¿TE CASAS?
 Al personaje se le aparece esta situación donde tiene que decidir si casarse con Lord Barba Azul o no (le aparecen esas 2 opciones)
 
 4) SÍ, TE CASAS
